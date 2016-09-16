@@ -1,4 +1,4 @@
-# Maven / Boilerplate
+# Java / Boilerplate
 
 This template will help you through the process of deploying a Maven container.
 
